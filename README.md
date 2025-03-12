@@ -1,4 +1,4 @@
 # first-project
-this is my first Git Repository.
+This is my first Git Repository.
 <br>
 Authom - Masud
