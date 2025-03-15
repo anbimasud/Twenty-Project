@@ -1,4 +1,4 @@
 # first-project
-This is my first Git Repository.
+This is my basic project in python.
 <br>
 Author - Abdullah Ibna Masud
